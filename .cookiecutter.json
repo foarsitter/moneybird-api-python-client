@@ -1,0 +1,16 @@
+{
+  "_checkout": null,
+  "_output_dir": "/home/jelmert/PycharmProjects",
+  "_repo_dir": "/home/jelmert/.cookiecutters/cookiecutter-hypermodern-python",
+  "_template": "https://github.com/foarsitter/cookiecutter-hypermodern-python.git",
+  "author": "Jelmer Draaijer",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 4 - Beta",
+  "email": "info@jelmert.nl",
+  "friendly_name": "Moneybird Api Python Client",
+  "github_user": "foarsitter",
+  "license": "MIT",
+  "package_name": "moneybird",
+  "project_name": "moneybird-api-python-client",
+  "version": "0.1.0"
+}
