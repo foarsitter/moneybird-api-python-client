@@ -3,11 +3,11 @@ from typing import List
 from pydantic import BaseModel, RootModel
 
 
-class MoneyBirdBaseModel(BaseModel):
+class MoneybirdBaseModel(BaseModel):
     pass
 
 
-class Administration(MoneyBirdBaseModel):
+class Administration(MoneybirdBaseModel):
     id: int
     name: str
     language: str
